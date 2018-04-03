@@ -5,8 +5,8 @@
 ## 规范
 
 - [JavaScript 规范](https://github.com/nisfe/guides/blob/master/javascript.md)
-- [HTML 规范](https://github.com/nisfe/guides/blob/master/javascript.md)
-- [CSS 规范](https://github.com/nisfe/guides/blob/master/javascript.md)
+- [HTML 规范](https://github.com/nisfe/guides/blob/master/html.md)
+- [CSS 规范](https://github.com/nisfe/guides/blob/master/css.md)
 
 ## 配置
 
