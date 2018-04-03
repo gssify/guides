@@ -1,4 +1,4 @@
-![logo](https://avatars0.githubusercontent.com/u/21256970?s=400&u=95451325073275d8842e55c91fdc52adee859e2c&v=4)
+![logo](https://avatars0.githubusercontent.com/u/21256970?s=200&u=95451325073275d8842e55c91fdc52adee859e2c&v=4)
 
 统一存放组内文档/代码/配置编写规范，欢迎参与讨论和建议
 
