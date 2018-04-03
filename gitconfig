@@ -18,7 +18,7 @@
   quotepath = false
   autocrlf = falsefilemode = false
 [gui]
-	encoding = utf-8
-	eccoding = utf-8
+  encoding = utf-8
+  eccoding = utf-8
 [i18n "commit"]
-	encoding = utf-8
+  encoding = utf-8
