@@ -1,3 +1,10 @@
+## 前言
+
+简化 Git 命令，提高操作效率。
+
+## 配置
+
+```
 [color]
   ui = auto
   diff = auto
@@ -22,3 +29,4 @@
   eccoding = utf-8
 [i18n "commit"]
   encoding = utf-8
+```
