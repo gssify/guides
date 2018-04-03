@@ -2,7 +2,7 @@
 
 编辑器配置统一文件，目标是提供一致的体验
 
-## 使用方法
+## 使用
 
 首先去 [EditorConfig](http://editorconfig.org/) 下载不同编辑器下的支持插件
 
